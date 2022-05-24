@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @asdfghjklqwertyuiozxcvbnmrg
+- 👀 I’m interested javascript, c, c#, c++, html, and css
+- 🌱 I’m currently learning javascript, html, and css
